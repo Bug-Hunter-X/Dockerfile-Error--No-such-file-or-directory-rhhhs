@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Dockerfiles where the CMD instruction attempts to execute a script in a directory that doesn't exist within the image.  The solution shows how to properly create the directory and copy the script into it.
